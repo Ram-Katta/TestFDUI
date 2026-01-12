@@ -1,0 +1,5 @@
+-- +BdYF1A- +Bd4F0QXXBd8-
+-- +BdAF3AXU- +BeoF1QXVBdkF3Q- +BeIF0QXoBdkF2QXd-.
+-- test
+
+SELECT 1 FROM DUAL+ADs-
