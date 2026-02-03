@@ -1,3 +1,0 @@
-SELECT BAD_COL FROM BAD_TABLE;asd
-asd
-asd
