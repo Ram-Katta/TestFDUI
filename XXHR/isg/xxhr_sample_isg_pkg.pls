@@ -87,3 +87,4 @@ PROCEDURE create_order (p_auc_tbl in xxceoe_wls_auc_tbl_type,
 						x_return_message out varchar2);
 
 END xxhr_sample_isg_pkg;
+--END

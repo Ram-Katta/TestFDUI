@@ -26,3 +26,4 @@ CREATE OR REPLACE PACKAGE xxhr_bipub_rep_pkg AS
 END xxhr_bipub_rep_pkg;
 /
 ---END
+--TEST
