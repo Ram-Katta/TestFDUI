@@ -6,5 +6,4 @@ BEGIN
     DBMS_OUTPUT.PUT_LINE('Script completed successfully.');
 END;
 /
-
-EXIT
+EXIT;
