@@ -4,3 +4,4 @@ DBMS_OUTPUT.PUT_LINE('Testing EXIT semicolon');
 END;
 /
 EXIT
+#Test1
