@@ -29,7 +29,7 @@ create or replace TRIGGER "APPS"."XXMSIPO_LINE_LOCATION_TRIG"
       | Revision History:
       | Revision        Date            Author           Reason/Defect
       |   1.0         22/10/2019          Deloitte       Initial version
-      |   1.1         26/06/2020          Deloitte       JIRA#819 Changes
+      |   1.1         26/06/2020          Deloitte       JIRA#819 Changes 
       |   1.2         11/11/2022          TCS            JIRA#D2P-1800
       |   1.3         25/01/2023          TCS            JIRA#D2P-1785
       |   1.4         12/04/2023          TCS            INC3517582 - To restrict service NP po from Match Option Sync
